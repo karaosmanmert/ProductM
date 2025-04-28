@@ -36,7 +36,3 @@ Projeyi kendi yerel ortamınızda kurmak ve çalıştırmak için aşağıdaki a
 5.  Uygulamayı Çalıştırın: IDE üzerinden projeyi çalıştırın (genellikle `F5` hata ayıklama ile veya `Ctrl+F5` hata ayıklama olmadan). Uygulama yerel bir web sunucusunda başlayacak ve varsayılan tarayıcınızda açılacaktır.
 
 Uygulama varsayılan olarak `https://localhost:XXXX` gibi bir adreste çalışacaktır.
-
-## Proje Dosya Yapısı
-
-Projenin temel klasör yapısı ve önemli dosyaları:
